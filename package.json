@@ -1,0 +1,23 @@
+{
+    "name": "http-logger",
+    "version": "1.0.0",
+    "description": "Bunyan HTTP Logger",
+    "main": "index.js",
+    "repository": {},
+    "author": "invibot",
+    "private": false,
+    "dependencies": {
+        "bugsnag": "*",
+        "bunyan": "^2.0.2",
+        "lodash": "^4.17.10",
+        "moment": "^2.22.2"
+    },
+    "devDependencies": {
+        "eslint": "^4.15.0",
+        "eslint-config-airbnb": "^16.1.0",
+        "mocha": "^4.0.1",
+        "should": "^11.2.1"
+    },
+    "scripts": {
+    }
+}
